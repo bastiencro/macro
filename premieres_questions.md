@@ -5,9 +5,7 @@
   + autodidactisme
   + amour du challenge
   + bricodage // bidouillage
-  + creative coding // arduino // [XR] : AR | VR | MR // etc.
-+ Design évolutif
-  + Ou l'importance de la donnée en temps réel  
+  + creative coding // arduino // [XR] : AR | VR | MR // etc. 
 + Démocratiser la démocratie
   + Rendre accessible les instances politiques
 + Hi.o.t // V2.00
